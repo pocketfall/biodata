@@ -1,1 +1,4 @@
 This folder contains .zip and .xml files that are used to test pydwca
+
+These datasets are taken from: https://www.gbif.org
+Citations are in the file called `references.txt`
