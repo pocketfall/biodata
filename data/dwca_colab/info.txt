@@ -1,1 +1,1 @@
-This folder contains .zip files that are used to test pydwca
+This folder contains .zip and .xml files that are used to test pydwca
