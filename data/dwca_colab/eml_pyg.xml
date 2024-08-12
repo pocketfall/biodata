@@ -1,0 +1,154 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="b656aac0-54ae-4091-a5d0-4e8283d293bd/v1.5" system="http://gbif.org" scope="system"
+         xml:lang="eng">
+
+<dataset>
+  <alternateIdentifier>b656aac0-54ae-4091-a5d0-4e8283d293bd</alternateIdentifier>
+  <alternateIdentifier>https://www.marine.csiro.au/ipt/resource?r=pygmy_jellyfish</alternateIdentifier>
+  <title xml:lang="eng">A new pygmy species of box jellyfish (Cubozoa: Chirodropida) from sub-tropical Australia</title>
+      <creator>
+    <individualName>
+        <givenName>Lisa-ann</givenName>
+      <surName>Gershwin</surName>
+    </individualName>
+    <organizationName>CSIRO Oceans and Atmosphere</organizationName>
+    <positionName>Investigator</positionName>
+    <address>
+        <deliveryPoint>Castray Esplanade</deliveryPoint>
+        <administrativeArea>Tasmania</administrativeArea>
+        <postalCode>7000</postalCode>
+        <country>AU</country>
+    </address>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Lisa-ann</givenName>
+      <surName>Gershwin</surName>
+    </individualName>
+    <organizationName>CSIRO Oceans and Atmosphere</organizationName>
+    <positionName>Investigator</positionName>
+    <address>
+        <deliveryPoint>Castray Esplanade</deliveryPoint>
+        <administrativeArea>Tasmania</administrativeArea>
+        <postalCode>7000</postalCode>
+        <country>AU</country>
+    </address>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+      <surName>OBIS Australia Node manager</surName>
+    </individualName>
+    <organizationName>CSIRO National Collections and Marine Infrastructure</organizationName>
+    <positionName>OBIS Australia Data Manager</positionName>
+    <address>
+        <deliveryPoint>Castray Esplande</deliveryPoint>
+        <city>Hobart</city>
+        <administrativeArea>Tasmania</administrativeArea>
+        <postalCode>7000</postalCode>
+        <country>AU</country>
+    </address>
+    <electronicMailAddress>obisau@csiro.au</electronicMailAddress>
+    <onlineUrl>http://www.obis.org.au</onlineUrl>
+    <role>publisher</role>
+      </associatedParty>
+  <pubDate>
+      2022-06-08
+  </pubDate>
+  <language>eng</language>
+  <abstract>
+    <para>Tropical box jellyfish include some of the world’s most venomous animals, leading researchers and the media to wonder whether changes in climate may drive these species into sub-tropical waters. The discovery, therefore, of small box jellyfish in the waterways of the Gold Coast and Sunshine Coast of south-east Queensland raised concern. This pygmy species proved to be new to science, separated from other species in the genus Chiropsella by its very small size; its semi-circular phacellae;
+very shallow, coalesced gastric saccules; its peculiar, long pedalia where the ‘palm’ is greatly reduced and the nonopposing
+‘fingers’ branch off together at the same level; and a knee-like bend of the pedalial canal. The residential canal/
+river habitat of this species of chirodropid raises the question of whether this area is also suitable for habitation by the
+larger, more virulent chirodropids such as the so-called ‘deadly box jellyfish’, Chironex fleckeri. This new species,
+Chiropsella saxoni sp. nov., brings the total number of chirodropid species described from Australian waters to five.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Occurrence</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Specimen</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Queensland and New South Wales coasts</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>153.1</westBoundingCoordinate>
+          <eastBoundingCoordinate>153.4</eastBoundingCoordinate>
+          <northBoundingCoordinate>-26.6</northBoundingCoordinate>
+          <southBoundingCoordinate>-29.9</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1984-05-19</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2013-11-01</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>species</taxonRankName>
+                <taxonRankValue>Chiropsella saxoni</taxonRankValue>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Lisa-ann</givenName>
+      <surName>Gershwin</surName>
+    </individualName>
+    <organizationName>CSIRO Oceans and Atmosphere</organizationName>
+    <positionName>Investigator</positionName>
+    <address>
+        <deliveryPoint>Castray Esplanade</deliveryPoint>
+        <administrativeArea>Tasmania</administrativeArea>
+        <postalCode>7000</postalCode>
+        <country>AU</country>
+    </address>
+      </contact>
+      <contact>
+    <individualName>
+        <givenName>Merrick</givenName>
+      <surName>Ekins</surName>
+    </individualName>
+    <organizationName>Queensland Museum</organizationName>
+    <address>
+        <city>Brisbane</city>
+        <administrativeArea>Queensland</administrativeArea>
+        <country>AU</country>
+    </address>
+      </contact>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2020-10-16T21:54:16.246+11:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+          <bibliography>
+                <citation identifier="doi:10.1017/S175526721500086X">Gershwin, Lisa-Ann,Ekins, Merrick (2015) A new pygmy species of box jellyfish (Cubozoa: Chirodropida) from sub-tropical Australia. Marine Biodiversity Records 8 pp-.</citation>
+          </bibliography>
+          <resourceLogoUrl>https://www.marine.csiro.au/ipt/logo.do?r=pygmy_jellyfish</resourceLogoUrl>
+          <dc:replaces>b656aac0-54ae-4091-a5d0-4e8283d293bd/v1.5.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>
